@@ -1020,3 +1020,25 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.17-14.39.56:839][857]LogSavePackage: Moving '../../../../../Git/VrBowling/Saved/VRTemplateMap_Auto1DEFF9DDADDAE4A55A510DDFE97066052.tmp' to '../../../../../Git/VrBowling/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
 [2022.12.17-14.39.56:841][857]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.056
 [2022.12.17-14.39.56:841][857]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.12.17-14.40.36:933][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bowling/Blueprints/ScoreCount.ScoreCount
+[2022.12.17-14.40.36:934][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.17-14.40.44:268][616]LogSlate: Took 0.000853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.17-14.40.53:921][160]BlueprintLog: New page: Compile ScoreCount
+[2022.12.17-14.40.54:003][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.17-14.40.54:441][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowling/Blueprints/ScoreCount" FILE="../../../../../Git/VrBowling/Content/Bowling/Blueprints/ScoreCount.uasset" SILENT=true
+[2022.12.17-14.40.54:448][176]LogSavePackage: Moving output files for package: /Game/Bowling/Blueprints/ScoreCount
+[2022.12.17-14.40.54:449][176]LogSavePackage: Moving '../../../../../Git/VrBowling/Saved/ScoreCount0307E60AC11A474DB35E2B397D5883B3.tmp' to '../../../../../Git/VrBowling/Content/Bowling/Blueprints/ScoreCount.uasset'
+[2022.12.17-14.40.54:512][176]AssetCheck: New page: Asset Save: ScoreCount
+[2022.12.17-14.40.54:512][176]LogContentValidation: Display: Validating Blueprint /Game/Bowling/Blueprints/ScoreCount.ScoreCount
+[2022.12.17-14.45.41:552][489]BlueprintLog: New page: Compile BallPastTrigger_Blueprint
+[2022.12.17-14.45.41:621][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.17-14.45.44:900][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowling/Blueprints/BallPastTrigger_Blueprint" FILE="../../../../../Git/VrBowling/Content/Bowling/Blueprints/BallPastTrigger_Blueprint.uasset" SILENT=true
+[2022.12.17-14.45.44:912][672]LogSavePackage: Moving output files for package: /Game/Bowling/Blueprints/BallPastTrigger_Blueprint
+[2022.12.17-14.45.44:913][672]LogSavePackage: Moving '../../../../../Git/VrBowling/Saved/BallPastTrigger_Blueprint0C503C05F7944E93BC3A9DA5EEC2D870.tmp' to '../../../../../Git/VrBowling/Content/Bowling/Blueprints/BallPastTrigger_Blueprint.uasset'
+[2022.12.17-14.45.44:960][672]AssetCheck: New page: Asset Save: BallPastTrigger_Blueprint
+[2022.12.17-14.45.44:960][672]LogContentValidation: Display: Validating Blueprint /Game/Bowling/Blueprints/BallPastTrigger_Blueprint.BallPastTrigger_Blueprint
+[2022.12.17-14.46.26:823][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bowling/Blueprints/BallPastTrigger_Blueprint" FILE="../../../../../Git/VrBowling/Content/Bowling/Blueprints/BallPastTrigger_Blueprint.uasset" SILENT=true
+[2022.12.17-14.46.26:837][151]LogSavePackage: Moving output files for package: /Game/Bowling/Blueprints/BallPastTrigger_Blueprint
+[2022.12.17-14.46.26:837][151]LogSavePackage: Moving '../../../../../Git/VrBowling/Saved/BallPastTrigger_Blueprint5342A9D6D817493EA6AB47D366AFEE55.tmp' to '../../../../../Git/VrBowling/Content/Bowling/Blueprints/BallPastTrigger_Blueprint.uasset'
+[2022.12.17-14.46.26:894][151]AssetCheck: New page: Asset Save: BallPastTrigger_Blueprint
+[2022.12.17-14.46.26:894][151]LogContentValidation: Display: Validating Blueprint /Game/Bowling/Blueprints/BallPastTrigger_Blueprint.BallPastTrigger_Blueprint
